@@ -9,7 +9,7 @@
     
     📧 poomipat21@gmail.com
 
-    [LinkedIn](https://th.linkedin.com/in/poomipat-charoenphon)
+    [LinkedIn](https://th.linkedin.com/in/poomipat-charoenphon)<br>
 
 <!--
 **pondzaz3553/pondzaz3553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
