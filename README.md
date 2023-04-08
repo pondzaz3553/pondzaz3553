@@ -7,9 +7,9 @@
 
 ## - 📫 How to reach me: ...
     
-    📧 poomipat21@gmail.com
+   📧 poomipat21@gmail.com
 
-    [LinkedIn](https://th.linkedin.com/in/poomipat-charoenphon)<br>
+   [LinkedIn](https://th.linkedin.com/in/poomipat-charoenphon)
 
 <!--
 **pondzaz3553/pondzaz3553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
