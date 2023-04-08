@@ -7,7 +7,7 @@
 
 ## - 📫 How to reach me: ...
     
-    :e-mail: poomipat21@gmail.com
+    📧 poomipat21@gmail.com
 
     [LinkedIn](https://th.linkedin.com/in/poomipat-charoenphon)
 
